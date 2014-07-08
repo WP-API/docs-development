@@ -1,3 +1,7 @@
+---
+title: WP API Documentation
+layout: guide
+---
 Getting Started
 ===============
 
@@ -468,7 +472,7 @@ get exploring!
 * [Schema][schema]: View technical information on all the available data
 * [Authentication][auth]: Explore authentication options
 
-[Working with Posts]: working-with-posts.md
-[schema]: ../schema.md
-[auth]: ../authentication.md
+[Working with Posts]: working-with-posts.html
+[schema]: ../schema.html
+[auth]: ../authentication.html
 [basic-auth-plugin]: https://github.com/WP-API/Basic-Auth

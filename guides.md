@@ -1,3 +1,7 @@
+---
+title: WP API Documentation
+layout: guide
+---
 Guides
 ======
 So, you want to learn about the API? Where better to start than with the guides.
@@ -10,6 +14,6 @@ and mention tips and tricks for using it.
   including filtering and additional data.
 * [Extending the API][]: Create your own API routes and endpoints in a plugin.
 
-[Getting Started]: http://wp-api.org/guides.html#getting-started
-[Working with Posts]: http://wp-api.org/guides.html#working-with-posts
-[Extending the API]: http://wp-api.org/guides.html#extending-the-api
+[Getting Started]: guides/getting-started.html
+[Working with Posts]: guides/working-with-posts.html
+[Extending the API]: guides/extending-the-api.html
