@@ -16,4 +16,4 @@ and mention tips and tricks for using it.
 
 [Getting Started]: guides/getting-started.html
 [Working with Posts]: guides/working-with-posts.html
-[Extending the API]: guides/extending-the-api.html
+[Extending the API]: guides/extending.html
