@@ -67,5 +67,7 @@
 		});
 
 		$menu.append(MenuView(data));
+
+		$(document).trigger('flatdoc:ready');
 	});
 })(jQuery);
