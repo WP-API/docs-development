@@ -1,2 +1,3 @@
 baseurl: /docs-development
 pygments: true
+markdown: kramdown
