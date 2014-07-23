@@ -1,3 +1,8 @@
+---
+title: WP REST API Documentation
+layout: internals
+---
+
 Philosophy
 ==========
 
@@ -40,12 +45,12 @@ Guidelines
   By using the API, you're essentially using a form of Remote Procedure Call.
   Both remote and local calls should look essentially the same while operating
   within the convention of REST calls for the remote calls.
-  
+
   Parameters to endpoints follow this rule, wherein remote parameters are
   matched up with defined parameters in the endpoint. More detailed structures
   are handled as entities, which have a clearly defined structure in
   the specification.
-  
+
   This follows from Rules 2 and 3.
 
 ### Guideline 2: Endpoints should avoid assuming HTTP/JSON characteristics

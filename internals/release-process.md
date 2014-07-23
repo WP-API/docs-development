@@ -1,3 +1,8 @@
+---
+title: WP REST API Documentation
+layout: internals
+---
+
 Release Process
 ===============
 Here's the process used to generate new releases for the API plugin.

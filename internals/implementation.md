@@ -1,3 +1,8 @@
+---
+title: WP REST API Documentation
+layout: internals
+---
+
 Implementation Details
 ======================
 
