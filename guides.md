@@ -1,5 +1,5 @@
 ---
-title: WP API Documentation
+title: WP REST API Documentation
 layout: guide
 ---
 Guides
