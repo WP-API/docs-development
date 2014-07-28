@@ -13,7 +13,9 @@ and mention tips and tricks for using it.
 * [Working with Posts][]: Explore more advanced usage of post-related data,
   including filtering and additional data.
 * [Extending the API][]: Create your own API routes and endpoints in a plugin.
+* [Authentication][]: Learn about options for authenticating with the API.
 
 [Getting Started]: guides/getting-started.html
 [Working with Posts]: guides/working-with-posts.html
 [Extending the API]: guides/extending.html
+[Authentication]: guides/authentication.html
