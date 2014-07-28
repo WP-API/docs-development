@@ -4,7 +4,7 @@ layout: guide
 ---
 Guides
 ======
-So, you want to learn about the API? Where better to start than with the guides.
+So, you want to learn about the API? There's no better place to start than with the guides.
 Each guide will walk you through interacting with the relevant part of the API
 and mention tips and tricks for using it.
 
